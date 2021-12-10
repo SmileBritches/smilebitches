@@ -1,4 +1,4 @@
-- 👋 @SmileBitches
+- 👋 @SmileBritches
 - 👀 I’m interested in networking with engineers around the globe.
 - 🌱 I’m currently learning web development and Swift along with Xcode.
 - 💞️ I’m looking to collaborate on writing content for anyone who needs help.
